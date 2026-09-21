@@ -50,77 +50,25 @@
   ],
   "episodes": [
     {
-      "id": 1,
-      "seasonId": 6,
+      "seasonId": 1,
       "number": 1,
-      "title": "Rainha Tormenta",
-      "description": "Adrien teme não ter uma paixão. Marinette tenta ajudá-lo, sem notar que alguém quer usar a popularidade dele para realizar seus próprios desejos.",
-      "language": "pt-BR",
-      "date": "2025-05-09",
-      "poster": "/images/601.webp",
+      "title": "Sr Pombo 67",
+      "description": "sr pombo",
+      "language": "portugues",
+      "date": "2011-11-08",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ADoEDzONXTMTDDELcpfBc_Uf9h2tU7Bkd6ju3yux4g&s=10",
       "sources": [
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-      ]
-    },
-    {
-      "id": 2,
-      "seasonId": 6,
-      "number": 2,
-      "title": "A Desenhista",
-      "description": "Ladybug e sua equipe enfrentam uma vilã cheia de imaginação.",
-      "language": "pt-BR",
-      "date": "2025-05-16",
-      "poster": "https://i.ibb.co/tMBY226B/CAT-NOIR.webp",
-      "sources": [
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-      ]
-    },
-    {
-      "id": 3,
-      "seasonId": 6,
-      "number": 3,
-      "title": "Sublimação",
-      "description": "Marinette tenta fazer uma nova amizade e descobre que nem todos precisam ser salvos.",
-      "language": "pt-BR",
-      "date": "2025-05-23",
-      "poster": "https://i.ibb.co/WNgJxGQN/LADYBUG.webp",
-      "sources": [
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-      ]
-    },
-    {
-      "id": 4,
-      "seasonId": 0,
-      "number": 3,
-      "title": "Miraculous World: Paris - As Aventuras de Shadybug e Claw Noir",
-      "description": "Shadybug e Claw Noir chegam de uma realidade paralela.",
-      "language": "pt-BR",
-      "date": "2023-10-21",
-      "poster": "/images/pr.jpg",
-      "sources": [
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-      ]
+        "https://www.youtube.com/watch?v=rikfWmYC13w"
+      ],
+      "id": 1
     }
   ],
-  "news": [
-    {
-      "id": 1,
-      "title": "Novo catálogo disponível",
-      "body": "A sexta temporada já pode ser encontrada no catálogo.",
-      "date": "2026-09-21"
-    },
-    {
-      "id": 2,
-      "title": "Estreia em breve",
-      "body": "Acompanhe a contagem regressiva na página inicial.",
-      "date": "2026-09-18"
-    }
-  ],
+  "news": [],
   "team": [
     {
       "id": 1,
-      "name": "Tae",
-      "role": "Fundador e editor"
+      "name": "Einyx",
+      "role": "Criador da bosta inteira"
     },
     {
       "id": 2,
