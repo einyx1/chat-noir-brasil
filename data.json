@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "name": "Chat Noir Brasil",
+    "tagline": "Site criado por fãs para fãs",
+    "accent": "#16f214",
+    "premiere": "2026-11-20T20:00:00-03:00",
+    "footer": "Site criado por fãs para fãs, com o objetivo de reunir informações sobre a série de TV Miraculous: As Aventuras de Ladybug e Chat Noir."
+  },
+  "seasons": [
+    {
+      "id": 0,
+      "name": "Especiais",
+      "image": "https://i.ibb.co/KjhYjLXx/CHRYSALIS.webp"
+    },
+    {
+      "id": 1,
+      "name": "1ª Temporada",
+      "image": "/images/VESPERIA.webp"
+    },
+    {
+      "id": 2,
+      "name": "2ª Temporada",
+      "image": "/images/CARAPACE.webp"
+    },
+    {
+      "id": 3,
+      "name": "3ª Temporada",
+      "image": "https://i.ibb.co/vvksnyJ7/RENA-ROUGE.webp"
+    },
+    {
+      "id": 4,
+      "name": "4ª Temporada",
+      "image": "https://i.ibb.co/qMGyg8pd/ARGOS.webp"
+    },
+    {
+      "id": 5,
+      "name": "5ª Temporada",
+      "image": "https://i.ibb.co/WNgJxGQN/LADYBUG.webp"
+    },
+    {
+      "id": 6,
+      "name": "6ª Temporada",
+      "image": "https://i.ibb.co/tMBY226B/CAT-NOIR.webp"
+    },
+    {
+      "id": 7,
+      "name": "7ª Temporada",
+      "image": "https://i.ibb.co/XkkFTByK/s6.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "seasonId": 6,
+      "number": 1,
+      "title": "Rainha Tormenta",
+      "description": "Adrien teme não ter uma paixão. Marinette tenta ajudá-lo, sem notar que alguém quer usar a popularidade dele para realizar seus próprios desejos.",
+      "language": "pt-BR",
+      "date": "2025-05-09",
+      "poster": "/images/601.webp",
+      "sources": [
+        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      ]
+    },
+    {
+      "id": 2,
+      "seasonId": 6,
+      "number": 2,
+      "title": "A Desenhista",
+      "description": "Ladybug e sua equipe enfrentam uma vilã cheia de imaginação.",
+      "language": "pt-BR",
+      "date": "2025-05-16",
+      "poster": "https://i.ibb.co/tMBY226B/CAT-NOIR.webp",
+      "sources": [
+        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      ]
+    },
+    {
+      "id": 3,
+      "seasonId": 6,
+      "number": 3,
+      "title": "Sublimação",
+      "description": "Marinette tenta fazer uma nova amizade e descobre que nem todos precisam ser salvos.",
+      "language": "pt-BR",
+      "date": "2025-05-23",
+      "poster": "https://i.ibb.co/WNgJxGQN/LADYBUG.webp",
+      "sources": [
+        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      ]
+    },
+    {
+      "id": 4,
+      "seasonId": 0,
+      "number": 3,
+      "title": "Miraculous World: Paris - As Aventuras de Shadybug e Claw Noir",
+      "description": "Shadybug e Claw Noir chegam de uma realidade paralela.",
+      "language": "pt-BR",
+      "date": "2023-10-21",
+      "poster": "/images/pr.jpg",
+      "sources": [
+        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Novo catálogo disponível",
+      "body": "A sexta temporada já pode ser encontrada no catálogo.",
+      "date": "2026-09-21"
+    },
+    {
+      "id": 2,
+      "title": "Estreia em breve",
+      "body": "Acompanhe a contagem regressiva na página inicial.",
+      "date": "2026-09-18"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Tae",
+      "role": "Fundador e editor"
+    },
+    {
+      "id": 2,
+      "name": "Equipe Miraculous Hub",
+      "role": "Curadoria e comunidade"
+    }
+  ]
+}
