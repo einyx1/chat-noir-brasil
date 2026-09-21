@@ -61,3 +61,4 @@ async function api(req,res,u) {
 
 const server=http.createServer(async(req,res)=>{try{const u=new URL(req.url,'http://localhost');if(u.pathname.startsWith('/api/'))return await api(req,res,u);let file=path.join(PUBLIC,u.pathname==='/'?'index.html':u.pathname);if(!path.extname(file))file=path.join(PUBLIC,'index.html');if(!file.startsWith(PUBLIC)||!fs.existsSync(file))file=path.join(PUBLIC,'index.html');res.writeHead(200,{'Content-Type':mime(file)});fs.createReadStream(file).pipe(res);}catch(e){json(res,500,{error:e.message});}});
 server.listen(PORT,()=>console.log(`Miraculous Hub: http://localhost:${PORT}`));
+
